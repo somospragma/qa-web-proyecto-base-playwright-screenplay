@@ -1,0 +1,16 @@
+{
+  "name": "proyecto-base-playwright-screnplay",
+  "version": "1.0.0",
+  "description": "Proyecto base de automatización con playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "allure-playwright": "^2.8.1"
+  }
+}
